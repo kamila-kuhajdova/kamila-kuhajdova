@@ -1,5 +1,6 @@
 <!---- 
 👋 Hi, I’m @kamila-kuhajdova
+💫
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -14,7 +15,7 @@ kamila-kuhajdova/kamila-kuhajdova is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-# 💫About Me :
+# 👋About Me :
 GVBN
 
 ## 🌐Socials
